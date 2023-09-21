@@ -1,0 +1,12 @@
+Lane border 1:
+Polynomial equation: 0.000000*x^2 + -0.338012*x + 1561.536270
+Number of points for polynomial fitting: 112, With average residuals (abs) of: 2.616553 
+
+Lane border 2:
+Polynomial equation: 0.000143*x^2 + -1.420346*x + 3059.175879
+Number of points for polynomial fitting: 44, With average residuals (abs) of: 0.797978 
+
+Lane border 3:
+Polynomial equation: -0.000080*x^2 + 1.126428*x + -797.870819
+Number of points for polynomial fitting: 78, With average residuals (abs) of: 2.655314 
+
